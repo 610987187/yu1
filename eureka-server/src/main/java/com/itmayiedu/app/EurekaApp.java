@@ -11,6 +11,7 @@ public class EurekaApp {
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaApp.class, args);
 		System.out.println("aaaaaaaaaaa11111111111112222");
+		System.out.println("白白");
 	}
 
 }
